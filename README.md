@@ -1,6 +1,10 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5613af8a-e94b-419d-8013-c26c2634fbd6/deploy-status)](https://app.netlify.com/sites/hungry-pare-257114/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5613af8a-e94b-419d-8013-c26c2634fbd6/deploy-status)](https://app.netlify.com/sites/too-opinion-ated/deploys)
 
-# Getting Started with Create React App
+# opinion-ate
+
+An app for tracking reviews of dishes at different restaurants.
+
+Production: https://too-opinion-ated.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -16,12 +20,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `yarn run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -31,7 +35,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `yarn run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
